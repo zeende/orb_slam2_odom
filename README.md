@@ -8,11 +8,12 @@
 
 
 # 添加位姿发布接口
+**Authors:** Zeen   
+**Date:** 01 Feb 2021
+1. 在节点中增加了关键帧输出接口  
+2. 增加了ROS的位姿发布话题  
 
-1.在节点中增加了关键帧输出接口  
-2.增加了位姿发布话题  
-3.修改并编译通过了ORB-SLAM2在ROS环境中运行的节点  
-创建了Astra相机使用的脚本 astra.cc
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
